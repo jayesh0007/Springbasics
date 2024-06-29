@@ -77,3 +77,18 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:48:32.043
 !MESSAGE Classpath changed for project: second
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:50:38.007
+!MESSAGE Classpath changed for project: demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:50:38.014
+!MESSAGE Boot project REMOVED: demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:51:41.299
+!MESSAGE Classpath changed for project: first
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:51:41.301
+!MESSAGE Boot project ADDED: first
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-29 22:51:42.119
+!MESSAGE Classpath changed for project: first
